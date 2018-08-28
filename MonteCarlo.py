@@ -96,6 +96,6 @@ while x<totalplayers:
 plt.ylabel('Account Value')
 plt.xlabel('Wager Count')
 plt.show()
-print ("Broke Count = ",TBC, "/",totalplayers)
-print ("Average Value = ",Totalvalue/totalplayers)
+print("Broke Count = ",TBC, "/",totalplayers)
+print("Average Value = ",Totalvalue/totalplayers)
 #print hours, hours*60
